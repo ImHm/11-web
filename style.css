@@ -1,0 +1,33 @@
+body{
+	font-family: 'Roboto';
+}
+.maintext{
+	color: blue;
+	display: inline-block;
+	font-size: 29px;
+	width:100%;
+	text-align: center;
+}
+.boldtext{
+	font-size: 40px;
+	display: inline-block;
+}
+.somebold{
+	font-size: 33px;
+	display: inline-block;
+}
+.submain{
+	color:orangered;
+	display: inline-block;
+	font-size: 10px;
+	width:100%;
+	text-align: center;
+	text-decoration: underline;
+}
+.date{
+	color:brown;
+	display: inline-block;
+	font-size:29px;
+	width: 100%;
+	text-align: center;
+}
